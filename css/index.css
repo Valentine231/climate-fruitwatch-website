@@ -1,0 +1,45 @@
+body{
+    background-image: url(../images/bee1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    background: whitesmoke;
+    display: flex;
+    align-items:center; 
+    gap:15px; 
+
+}
+
+.head1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img{
+    width: 120px;
+    border-radius: 100px;
+    height: 15vh;
+}
+
+aside{
+    background-color:white;
+    color: black;
+    padding-top:5px;
+    width: 25%;
+    height: 50vh;  
+    float: right;
+}
+
+li{
+    text-decoration: none;
+    list-style: none;
+}
+
+a{
+    color: black;
+    padding: 30px;
+    text-decoration: none;   
+}
+
+
